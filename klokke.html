@@ -1,0 +1,75 @@
+<script src="https://cdn.tailwindcss.com"></script>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web kurs</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oxygen:wght@300&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="w-full h-full grid content-center bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500">
+        <div class="rounded-md cool">
+            <h1 class="text-center text-6xl text-white">Klokken er :</h1>
+        </div>
+        <div class="flex flex-row justify-center">
+            <div>
+                <b>
+                    <h2 id="hour" class="p-10 text-center text-9xl font-bold text-white"></h2>
+                </b>
+            </div>
+            <div><b>
+                    <h2 id="minute" class="p-10 text-center text-9xl font-bold text-white"></h2>
+                </b>
+            </div>
+            <div><b>
+                    <h2 id="second" class="p-10 text-center text-9xl font-bold text-white"></h2>
+                </b>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
+
+<style>
+    .cool {
+        background-color: rgba(10 10 10 50%);
+    }
+
+    html,
+    body {
+        font-family: 'Oxygen', sans-serif;
+    }
+</style>
+
+<script>
+    setInterval(() => {
+        const d = new Date();
+        let zero = ""
+
+        let hour = d.getHours();
+        if (hour < 10) {
+            zero = "0"
+        }
+        document.getElementById("hour").innerHTML = "" + zero + hour;
+        zero = ""
+
+        let minute = d.getMinutes();
+        if (minute < 10) {
+            zero = "0"
+        }
+        document.getElementById("minute").innerHTML = ":  " + zero + minute;
+        zero = ""
+
+        let second = d.getSeconds();
+        if (second < 10) {
+            zero = "0"
+        }
+        document.getElementById("second").innerHTML = ":  " + zero + second;
+    }, 1000)
+</script>
