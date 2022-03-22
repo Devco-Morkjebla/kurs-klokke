@@ -31,3 +31,13 @@ Filen burde da se noenlunde sånn ut:
 
 ```
 
+#
+
+Nå kan du legge til tailwindCSS ved å kopiere denne linken `https://cdn.tailwindcss.com` og plassere den inni en egen `<script>` tag. 
+Inne i `<script>` taggen kan du spesifisere sourcen til scriptet. Der kan du lime inn linken du nettopp kopierte.
+````html
+<script src="https://cdn.tailwindcss.com"></script>
+```
+
+Denne script taggen kan du da legge under `<html>` taggen på 2. linje
+
