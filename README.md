@@ -46,7 +46,11 @@ Denne script taggen kan du da legge under `<html>` taggen på 2. linje
 `<head>` taggen brukes for å definere metadata. 
 Alt av content hører til i `<body>` taggen.
 `<script>` taggen brukes for å utføre script. 
-og `<style>` taggen brukes til å 
+og `<style>` taggen brukes til å gi HTML elementene style.
+
+I denne tutorialene kommer vi ikke til å bruke `<style>` taggen i det hele tatt. 
+Istedenfor å definere styles manuelt, så lar vi tailwind generere den for oss.
+
 #
 Du kan så begynne med å lage HTML oppsettet til klokken. 
 
