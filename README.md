@@ -58,8 +58,13 @@ Inne i `<body>` taggen begynner du med å lage en `<div>`.
 En `<div>` fungerer som en kontainer. `<div>` taggen grupperer alt som ligger inni den.
   Så å si alle HTML tagger må bli lukket. Dette kan gjøres ved å skrive `</"navnet på taggen">`  
   
+I denne `<div>` taggen kan du gi kontaineren diverse klasser som vil gi kontaineren og dens innhold forskjellig utseende.
 ```html
-  
+<body>
+    <div class="w-full h-full grid content-center bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500">
+        
+    </div>
+</body>  
  
 ```
  
