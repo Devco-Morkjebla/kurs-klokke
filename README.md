@@ -88,13 +88,16 @@ Du er nå klar til å gi liv til din klokke.
 Start med å hoppe ned til `<script>`taggen du lagde tidligere.
 
 Inne i denne `<script>` taggen må/kan du lage en setInterval funksjon.
+
 ![image](https://user-images.githubusercontent.com/71834553/159877459-e7894582-f799-4d72-9eb7-51b24c9f738f.png)
 
 En setInterval funksjon kan brukes til å kjøre noe flere ganger, men med en delay. Delayen defineres i millisekund bak den siste `}` bracketen.  
 Siden klokken skal oppdateres hvert sekund må du sette delayen til 1000 millisekund.
+
 ![image](https://user-images.githubusercontent.com/71834553/159877867-3cc1353f-a1e5-4dba-8a99-94a993db677e.png)
 
 Inne i setInterval funksjonen må du først hente datoen. Dette kan gjøres ved å definere en constant variabel og sette den til **new Date()**
+
 ![image](https://user-images.githubusercontent.com/71834553/159878134-c24d1899-fff2-4a56-8077-2b97800a0c4f.png)
 
 
