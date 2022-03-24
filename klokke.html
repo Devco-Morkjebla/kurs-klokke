@@ -49,24 +49,24 @@
 
 <script>
     setInterval(() => {
-        const d = new Date();
+        const date = new Date();
         let zero = ""
 
-        let hour = d.getHours();
+        let hour = date.getHours();
         if (hour < 10) {
             zero = "0"
         }
         document.getElementById("hour").innerHTML = "" + zero + hour;
         zero = ""
 
-        let minute = d.getMinutes();
+        let minute = date.getMinutes();
         if (minute < 10) {
             zero = "0"
         }
         document.getElementById("minute").innerHTML = ":  " + zero + minute;
         zero = ""
 
-        let second = d.getSeconds();
+        let second = date.getSeconds();
         if (second < 10) {
             zero = "0"
         }
