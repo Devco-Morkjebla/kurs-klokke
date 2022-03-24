@@ -169,3 +169,20 @@ Gratulerer! Du er nå ferdig med oppgave 1
 
 I denne oppgaven skal du lage en funksjon om skriver datoen under klokken.
 
+# Oppgave 3
+
+Gå og spill dette 
+https://cssgridgarden.com/
+https://flexboxfroggy.com/
+https://knightsoftheflexboxtable.com/
+
+# Oppgave 4 (Optional)
+
+Gå og utforsk tailwind
+https://play.tailwindcss.com/
+
+# Oppgave 5
+
+Gå og svar på 
+
+<iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=iwKORyugAkeHBTj5u81COYAvcgIoDsFLknujpk6lPelUN01YNlRMWThCSklTWUYzM1pWVllGMkJWSC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
