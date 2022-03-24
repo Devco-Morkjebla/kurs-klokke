@@ -1,5 +1,4 @@
-# kurs-klokke
-Oppgave 1
+# Oppgave 1
 
 1. Start med å åpne VScode eller en annen editor.
 
@@ -62,11 +61,32 @@ I denne `<div>` taggen kan du gi kontaineren diverse klasser som vil gi kontaine
 
 ![image](https://user-images.githubusercontent.com/71834553/159876711-b5ecd323-7ee5-4c2c-9653-9ae7e8828ded.png)
 
+Her så har vi satt stylingen på kontaineren slik at bredden på den er 100% (w-full) og at høyden på den er 100% (h-full). 
+Vi har også satt kontaineren til å være en grid (grid). Dette gir mulighet for å plassere innholdet i kontaineren i midten ved hjelp av `content-center` klassen
+
+# 
+
+I tailwind så kan du gi kontaineren en bakgrunn ved å skrive `bg-` og så din ønskede farge. 
+Legg merke til at tailwind har et stort utvalg av farger og fargetoner. 
+Her er en liste over fargene som er støttet.
+https://tailwindcss.com/docs/background-color
+
+Her så har vi gikk kontaineren en gradient som går mot høyre. Gradienten går fra fargen `indigo-500` (from-indigo-500), har så `purple-500` i midten (via-purple-500) og så `pink-500` i enden (to-pink-500)
+
+##
+
+Inne i `<div>` kontaineren så kan du lage enda en `<div>` kontainer. Denne skal ha klassene `flex`,`flex-row` og `justify-center`
+`Flex` klassen sørger for at innholdet tilpasser seg skjermbredden. `flex-row` klassen er gjør at elementene inni kontaineren ligger på rad.
+`justifiy-center` klassen er ansvarlig for at elementene ligger i midten.
+
+![image](https://user-images.githubusercontent.com/71834553/159911655-ea53c50f-0e7c-455e-b6b5-191cd4ec483a.png)
 
 
 #
 
 Inne i `<div>` kontaineren du lagde kan du nå lage tre nye `<div>` kontainere. En til å vise Timer, en for minutter og en for sekunder.
+
+![image](https://user-images.githubusercontent.com/71834553/159911830-953ad38f-9756-4759-86f5-e222d9df7f67.png)
 
 #
 
@@ -79,7 +99,7 @@ I tillegg så kan du gi `<h2>` taggene ett utseende ved å bruke tailwind classe
 
 `<h2>` taggene burde da se noenlunde slik ut.
 
-![image](https://user-images.githubusercontent.com/71834553/159876582-19f9e9d7-582a-4bfc-b3db-e974f3c7469d.png)
+![image](https://user-images.githubusercontent.com/71834553/159912039-014f2ab5-3f06-4c80-b9b5-d0f0afcaa15a.png)
 
 #
 
@@ -142,3 +162,9 @@ minuteTag.innerText = `:${zeroMinutes}${minute}:`
 hourTag.innerText = `${zeroSeconds}${second}`
 ```
 Når du setter teksten på minute så kan du legge ":" forran og bak slik at du ender opp med med 00:00:00
+
+Gratulerer! Du er nå ferdig med oppgave 1
+
+# Oppgave 2
+
+
