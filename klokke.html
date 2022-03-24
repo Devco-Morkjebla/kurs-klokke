@@ -18,17 +18,13 @@
         </div>
         <div class="flex flex-row justify-center">
             <div>
-                <b>
-                    <h2 id="hour" class="p-10 text-center text-9xl font-bold text-white"></h2>
-                </b>
+              <h2 id="hours" class="p-10 text-center text-9xl font-bold text-white"></h2>
             </div>
-            <div><b>
-                    <h2 id="minute" class="p-10 text-center text-9xl font-bold text-white"></h2>
-                </b>
+            <div>
+              <h2 id="minutes" class="p-10 text-center text-9xl font-bold text-white"></h2>
             </div>
-            <div><b>
-                    <h2 id="second" class="p-10 text-center text-9xl font-bold text-white"></h2>
-                </b>
+            <div>
+              <h2 id="seconds" class="p-10 text-center text-9xl font-bold text-white"></h2>
             </div>
         </div>
     </div>
@@ -50,25 +46,31 @@
 <script>
     setInterval(() => {
         const date = new Date();
-        let zero = ""
-
+       
+        let zeroHours = ""
+        let zeroMinutes = ""
+        let zeroSeconds = ""
+        
         let hour = date.getHours();
+        let minute = date.getMinutes();
+        let second = date.getSeconds();
+        
         if (hour < 10) {
-            zero = "0"
+            zeroHours = "0"
         }
         document.getElementById("hour").innerHTML = "" + zero + hour;
         zero = ""
 
-        let minute = date.getMinutes();
+        
         if (minute < 10) {
-            zero = "0"
+            zeroMinutes = "0"
         }
         document.getElementById("minute").innerHTML = ":  " + zero + minute;
         zero = ""
 
-        let second = date.getSeconds();
+       
         if (second < 10) {
-            zero = "0"
+            zeroSeconds = "0"
         }
         document.getElementById("second").innerHTML = ":  " + zero + second;
     }, 1000)
