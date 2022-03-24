@@ -1,5 +1,5 @@
 # kurs-klokke
-
+Oppgave 1
 
 1. Start med å åpne VScode eller en annen editor.
 
@@ -100,4 +100,45 @@ Inne i setInterval funksjonen må du først hente datoen. Dette kan gjøres ved 
 
 ![image](https://user-images.githubusercontent.com/71834553/159878134-c24d1899-fff2-4a56-8077-2b97800a0c4f.png)
 
+Du må også definere en variabel for zero slik at vi kan sette en 0 bak timer, minutt og sekund om de er mindre enn 10
 
+![image](https://user-images.githubusercontent.com/71834553/159907490-cc0cd532-2f67-4e66-9cbe-482fa41a53b5.png)
+
+
+
+Deretter må du få ut timer, minutter og sekunder fra variabelen du laget. 
+Dette kan du gjøre ved å lage tre nye variabler. 
+Variabelen for timer kan du sette til date.getHours()
+Variabelen for minutter kan du sette til date.getMinutes()
+Variabelen for sekunder kan du sette til date.getSeconds()
+
+![image](https://user-images.githubusercontent.com/71834553/159908159-c0344d07-c510-4db0-8023-1e7e39aa0ab9.png)
+
+Du må så sjekke om timer, minutter og sekund er mindre enn 10. 
+Om den er mindre enn 10 så må du legge til en 0 forran.
+Da lager du en if statement for timer, minutter og sekund der du sjekker om verdien er mindre enn 10
+
+![image](https://user-images.githubusercontent.com/71834553/159907580-b44c52a5-acd4-40f5-bb7b-47480e3fe09c.png)
+![image](https://user-images.githubusercontent.com/71834553/159907608-4c614e59-334f-46d6-95a6-2fbe1cc75fdb.png)
+![image](https://user-images.githubusercontent.com/71834553/159907623-d9fe539e-8ad5-4393-bf85-efd4c8f9f640.png)
+
+Til slutt må du oppdatere `<h2>` taggene for timer, minutter og sekunder.
+Da kan du hente inn elementene i javascript ved å skrive:
+
+`let hourTag = document.getElementById("hours")`
+`let minuteTag = document.getElementById("minutes")`
+`let secondTag = document.getElementById("seconds")`
+
+JavaScript har en funksjon som heter Template Literals. Dette gir oss muligheten til å skrive variabler rett inn i en string.
+For å bruke denne funksjonen så må kan du sette teksten inn i disse tegnene ``
+
+Så kan du sette inn hvilken som helst variabel ved å sette den inni disse tegnene ${}
+
+
+Deretter kan du skrive
+```javascript
+hourTag.innerText = `${zeroHours}${hour}`
+minuteTag.innerText = `:${zeroMinutes}${minute}:`
+hourTag.innerText = `${zeroSeconds}${second}`
+```
+Når du setter teksten på minute så kan du legge ":" forran og bak slik at du ender opp med med 00:00:00
