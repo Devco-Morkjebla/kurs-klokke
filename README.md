@@ -183,6 +183,5 @@ https://play.tailwindcss.com/
 
 # Oppgave 5
 
-Gå og svar på 
+Gå og svar på <a href="https://forms.office.com/r/vR9SF1WRat">Formsen</a>
 
-![Formsen](https://forms.office.com/r/vR9SF1WRat)
