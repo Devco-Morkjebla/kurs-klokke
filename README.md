@@ -172,8 +172,11 @@ I denne oppgaven skal du lage en funksjon om skriver datoen under klokken.
 # Oppgave 3
 
 Gå og spill dette 
+
 https://cssgridgarden.com/
+
 https://flexboxfroggy.com/
+
 https://knightsoftheflexboxtable.com/
 
 # Oppgave 4 (Optional)
