@@ -185,4 +185,4 @@ https://play.tailwindcss.com/
 
 Gå og svar på 
 
-<iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=iwKORyugAkeHBTj5u81COYAvcgIoDsFLknujpk6lPelUN01YNlRMWThCSklTWUYzM1pWVllGMkJWSC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+![Formsen](https://forms.office.com/r/vR9SF1WRat)
