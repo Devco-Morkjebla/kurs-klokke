@@ -5,15 +5,17 @@
 
 # Innhold
 
-[Oppgave1](#-Oppgave1)
+[Oppgave1](#Oppgave1)
 
-[Oppgave2](#-Oppgave2)
+[Oppgave2](#Oppgave2)
 
-[Oppgave3](#-Oppgave3)
+[Oppgave3](#oppgave3)
 
-[Oppgave4](#-Oppgave4)
+[Oppgave4](#oppgave4)
 
-[Oppgave5](#-Oppgave5)
+[Oppgave5](#oppgave5)
+
+[Oppgave6](#oppgave6)
 
 ## Oppgave 1
 
