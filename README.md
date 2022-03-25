@@ -202,12 +202,16 @@ https://flexboxfroggy.com/
 
 https://knightsoftheflexboxtable.com/
 
-# Oppgave 4 (Optional)
+# Oppgave 4
+
+Lag en smakfull nettside om en av hobbyene/interessene dine ved hjelp av tailwindcss.
+
+# Oppgave 5 (Optional)
 
 Gå og utforsk tailwind
 https://play.tailwindcss.com/
 
-# Oppgave 5
+# Oppgave 6
 
 Gå og svar på <a href="https://forms.office.com/r/vR9SF1WRat">Formsen</a>
 
