@@ -145,9 +145,12 @@ Da lager du en if statement for timer, minutter og sekund der du sjekker om verd
 Til slutt må du oppdatere `<h2>` taggene for timer, minutter og sekunder.
 Da kan du hente inn elementene i javascript ved å skrive:
 
-`let hourTag = document.getElementById("hours")`
-`let minuteTag = document.getElementById("minutes")`
-`let secondTag = document.getElementById("seconds")`
+```javascript
+let hourTag = document.getElementById("hours");
+let minuteTag = document.getElementById("minutes");
+let secondTag = document.getElementById("seconds");
+```
+
 
 JavaScript har en funksjon som heter Template Literals. Dette gir oss muligheten til å skrive variabler rett inn i en string.
 For å bruke denne funksjonen så må kan du sette teksten inn i disse tegnene ``
