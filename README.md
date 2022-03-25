@@ -4,16 +4,6 @@
 ![I dette kurset vil du lære](https://arvidgithubembed.herokuapp.com/skills?languages=javascript,tailwind,html5&backgroundcolor=0D1117&bordercolor=0D1117&title=I%20dette%20kurset%20vil%20du%20lære&titlecolor=ffffff&textcolor=dddddd&boxcolor=0D1117)
 
 
-
-# Innhold
-
-- [oppgave1](#oppgave1)
-- [oppgave2](#oppgave2)
-- [oppgave3](#oppgave3)
-- [oppgave4](#oppgave4)
-- [oppgave5](#oppgave5)
-- [oppgave6](#oppgave6)
-
 # Oppgave 1
 
 1. Start med å åpne VScode eller en annen editor.
