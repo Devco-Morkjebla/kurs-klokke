@@ -149,7 +149,7 @@ Variabelen for sekunder kan du sette til date.getSeconds()
 
 ![image](https://user-images.githubusercontent.com/71834553/159908159-c0344d07-c510-4db0-8023-1e7e39aa0ab9.png)
 
-Du må så sjekke om timer, minutter og sekund er mindre enn 10. 
+Du må så sjekke om timer, minutter og sekunder er mindre enn 10. 
 Om den er mindre enn 10 så må du legge til en 0 forran.
 Da lager du en if statement for timer, minutter og sekund der du sjekker om verdien er mindre enn 10
 
