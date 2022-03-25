@@ -71,7 +71,7 @@ Legg merke til at tailwind har et stort utvalg av farger og fargetoner.
 Her er en liste over fargene som er støttet.
 https://tailwindcss.com/docs/background-color
 
-Her så har vi gikk kontaineren en gradient som går mot høyre. Gradienten går fra fargen `indigo-500` (from-indigo-500), har så `purple-500` i midten (via-purple-500) og så `pink-500` i enden (to-pink-500)
+Her så har vi gitt kontaineren en gradient som går mot høyre. Gradienten går fra fargen `indigo-500` (from-indigo-500), har så `purple-500` i midten (via-purple-500) og så `pink-500` i enden (to-pink-500)
 
 ##
 
