@@ -17,7 +17,7 @@
 
 [Oppgave6](#-oppgave6)
 
-# oppgave 1
+# Oppgave 1
 
 1. Start med å åpne VScode eller en annen editor.
 
@@ -211,7 +211,7 @@ Hint: Du kan bruke date variabelen du har definert fra før
 ![image](https://user-images.githubusercontent.com/71834553/160081911-72d5d2d2-1dae-4a08-bf19-36e4753336ce.png)
 
 
-# oppgave 3
+# Oppgave 3
 
 Gå og spill en av disse
 
@@ -221,16 +221,17 @@ Gå og spill en av disse
 
 <a href="https://flexboxfroggy.com/">Flexbox Froggy</a>
 
-# oppgave 4
+# Oppgave 4
 
 Lag en smakfull nettside om en av hobbyene/interessene dine ved hjelp av tailwindcss.
 
-# oppgave 5 (Optional)
+# Oppgave 5 
+(Optional)
 
 Gå og utforsk tailwind
 https://play.tailwindcss.com/
 
-# oppgave 6
+# Oppgave 6
 
 Gå og svar på <a href="https://forms.office.com/r/vR9SF1WRat">Formsen</a>
 
