@@ -183,7 +183,7 @@ Deretter kan du skrive
 ```javascript
 hourTag.innerText = `${zeroHours}${hour}`
 minuteTag.innerText = `:${zeroMinutes}${minute}:`
-hourTag.innerText = `${zeroSeconds}${second}`
+secondTag.innerText = `${zeroSeconds}${second}`
 ```
 Når du setter teksten på minute så kan du legge ":" forran og bak slik at du ender opp med med 00:00:00
 
