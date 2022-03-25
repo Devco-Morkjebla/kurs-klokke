@@ -167,7 +167,7 @@ Gratulerer! Du er nå ferdig med oppgave 1
 
 # Oppgave 2
 
-I denne oppgaven skal du lage en funksjon om skriver datoen under klokken.
+I denne oppgaven skal du lage en funksjon som skriver datoen under klokken.
 
 # Oppgave 3
 
