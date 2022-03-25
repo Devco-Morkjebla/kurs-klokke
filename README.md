@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/71834553/160104224-18424314-2095-470a-a972-07a4002ca4d5.png)
+
+
 # Oppgave 1
 
 1. Start med å åpne VScode eller en annen editor.
@@ -194,13 +197,13 @@ Hint: Du kan bruke date variabelen du har definert fra før
 
 # Oppgave 3
 
-Gå og spill dette 
+Gå og spill en av disse
 
-https://cssgridgarden.com/
+<a href="https://knightsoftheflexboxtable.com/">Knights Of The Flexbox Table</a>
 
-https://flexboxfroggy.com/
+<a href="https://cssgridgarden.com/">CSS Grid Garden</a>
 
-https://knightsoftheflexboxtable.com/
+<a href="https://flexboxfroggy.com/">Flexbox Froggy</a>
 
 # Oppgave 4
 
