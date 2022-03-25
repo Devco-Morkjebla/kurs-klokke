@@ -7,12 +7,12 @@
 
 # Innhold
 
-- [oppgave1](#-oppgave1)
-- [oppgave2](#-oppgave2)
-- [oppgave3](#-oppgave3)
-- [oppgave4](#-oppgave4)
-- [oppgave5](#-oppgave5)
-- [oppgave6](#-oppgave6)
+- [oppgave1](#oppgave1)
+- [oppgave2](#oppgave2)
+- [oppgave3](#oppgave3)
+- [oppgave4](#oppgave4)
+- [oppgave5](#oppgave5)
+- [oppgave6](#oppgave6)
 
 # Oppgave 1
 
