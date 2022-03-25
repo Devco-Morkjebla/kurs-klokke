@@ -71,12 +71,12 @@ Legg merke til at tailwind har et stort utvalg av farger og fargetoner.
 Her er en liste over fargene som er støttet.
 https://tailwindcss.com/docs/background-color
 
-Her så har vi gitt kontaineren en gradient som går mot høyre. Gradienten går fra fargen `indigo-500` (from-indigo-500), har så `purple-500` i midten (via-purple-500) og så `pink-500` i enden (to-pink-500)
+Her så har vi gitt kontaineren en gradient som går mot høyre. Gradienten går fra fargen `indigo-500` (from-indigo-500), så `purple-500` i midten (via-purple-500) og så `pink-500` i enden (to-pink-500)
 
 ##
 
 Inne i `<div>` kontaineren så kan du lage enda en `<div>` kontainer. Denne skal ha klassene `flex`,`flex-row` og `justify-center`
-`Flex` klassen sørger for at innholdet tilpasser seg skjermbredden. `flex-row` klassen er gjør at elementene inni kontaineren ligger på rad.
+`Flex` klassen sørger for at innholdet tilpasser seg skjermbredden. `flex-row` klassen gjør at elementene inni kontaineren ligger på rad.
 `justifiy-center` klassen er ansvarlig for at elementene ligger i midten.
 
 ![image](https://user-images.githubusercontent.com/71834553/159911655-ea53c50f-0e7c-455e-b6b5-191cd4ec483a.png)
