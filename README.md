@@ -3,7 +3,19 @@
 
 ![I dette kurset vil du lære](https://arvidgithubembed.herokuapp.com/skills?languages=javascript,tailwind,html5&backgroundcolor=0D1117&bordercolor=0D1117&title=I%20dette%20kurset%20vil%20du%20lære&titlecolor=ffffff&textcolor=dddddd&boxcolor=0D1117)
 
-# Oppgave 1
+# Innhold
+
+[Oppgave1](#Oppgave1)
+
+[Oppgave2](#Oppgave2)
+
+[Oppgave3](#Oppgave3)
+
+[Oppgave4](#Oppgave4)
+
+[Oppgave5](#Oppgave5)
+
+##Oppgave 1
 
 1. Start med å åpne VScode eller en annen editor.
 
@@ -188,7 +200,7 @@ Når du setter teksten på minute så kan du legge ":" forran og bak slik at du 
 
 Gratulerer! Du er nå ferdig med oppgave 1
 
-# Oppgave 2
+## Oppgave 2
 
 I denne oppgaven skal du lage en funksjon som skriver datoen under klokken.
 
@@ -197,7 +209,7 @@ Hint: Du kan bruke date variabelen du har definert fra før
 ![image](https://user-images.githubusercontent.com/71834553/160081911-72d5d2d2-1dae-4a08-bf19-36e4753336ce.png)
 
 
-# Oppgave 3
+## Oppgave 3
 
 Gå og spill en av disse
 
@@ -207,16 +219,16 @@ Gå og spill en av disse
 
 <a href="https://flexboxfroggy.com/">Flexbox Froggy</a>
 
-# Oppgave 4
+## Oppgave 4
 
 Lag en smakfull nettside om en av hobbyene/interessene dine ved hjelp av tailwindcss.
 
-# Oppgave 5 (Optional)
+## Oppgave 5 (Optional)
 
 Gå og utforsk tailwind
 https://play.tailwindcss.com/
 
-# Oppgave 6
+## Oppgave 6
 
 Gå og svar på <a href="https://forms.office.com/r/vR9SF1WRat">Formsen</a>
 
