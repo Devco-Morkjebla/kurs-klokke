@@ -168,7 +168,7 @@ let secondTag = document.getElementById("seconds");
 
 
 JavaScript har en funksjon som heter Template Literals. Dette gir oss muligheten til å skrive variabler rett inn i en string.
-For å bruke denne funksjonen så må kan du sette teksten inn i disse tegnene ``
+For å bruke denne funksjonen så må du sette teksten inn i disse tegnene ``
 
 Så kan du sette inn hvilken som helst variabel ved å sette den inni disse tegnene ${}
 
