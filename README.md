@@ -1,6 +1,8 @@
 ![image](https://user-images.githubusercontent.com/71834553/160104224-18424314-2095-470a-a972-07a4002ca4d5.png)
 
 
+![I dette kurset vil du lære](https://arvidgithubembed.herokuapp.com/skills?languages=javascript,tailwindcss,html&backgroundcolor=0D1117&bordercolor=0D1117&title=Devco%20jobber%20med&titlecolor=ffffff&textcolor=dddddd&boxcolor=0D1117)
+
 # Oppgave 1
 
 1. Start med å åpne VScode eller en annen editor.
