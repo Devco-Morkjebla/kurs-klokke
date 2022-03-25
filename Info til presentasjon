@@ -7,7 +7,7 @@ PROS
 1. Tailwind er svært tilpassbar
 2. En utmerket løsning for folk som har lyst til å få fart på arbeidet
 3. Tailwind har liten packetstørrelse
-4. Tailwind tar og fjerner ubrukte klasser.
+4. Tailwind tar og fjerner ubrukte html klasser.
 
 CONS
 1. Tailwind gjør det vanskelig å lese koden
