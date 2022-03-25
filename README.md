@@ -15,7 +15,7 @@
 
 [Oppgave5](#Oppgave5)
 
-##Oppgave 1
+## Oppgave 1
 
 1. Start med å åpne VScode eller en annen editor.
 
