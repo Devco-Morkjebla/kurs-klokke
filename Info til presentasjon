@@ -6,9 +6,10 @@ Hvorfor er det nyttig å bruke Tailwind?
 PROS
 1. Tailwind er svært tilpassbar
 2. En utmerket løsning for folk som har lyst til å få fart på arbeidet
-3. CSS filene tar opp veldig lite plass
+3. Tailwind har liten packetstørrelse
+4. Tailwind tar og fjerner ubrukte klasser.
 
 CONS
 1. Tailwind gjør det vanskelig å lese koden
-2.
-3.
+2. Kan føre til uryddig struktur.
+3. Ender opp i mye repeterende kode.
