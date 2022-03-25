@@ -3,22 +3,16 @@
 
 ![I dette kurset vil du lære](https://arvidgithubembed.herokuapp.com/skills?languages=javascript,tailwind,html5&backgroundcolor=0D1117&bordercolor=0D1117&title=I%20dette%20kurset%20vil%20du%20lære&titlecolor=ffffff&textcolor=dddddd&boxcolor=0D1117)
 
-[Go to Heading section](#-this-is-a-heading)
 
 
 # Innhold
 
-[Oppgave1](#-oppgave1)
-
-[Oppgave2](#-oppgave2)
-
-[Oppgave3](#-oppgave3)
-
-[Oppgave4](#-oppgave4)
-
-[Oppgave5](#-oppgave5)
-
-[Oppgave6](#-oppgave6)
+- [Oppgave1](#-oppgave1)
+- [Oppgave2](#-oppgave2)
+- [Oppgave3](#-oppgave3)
+- [Oppgave4](#-oppgave4)
+- [Oppgave5](#-oppgave5)
+- [Oppgave6](#-oppgave6)
 
 # Oppgave 1
 
@@ -234,7 +228,7 @@ Lag en smakfull nettside om en av hobbyene/interessene dine ved hjelp av tailwin
 Gå og utforsk tailwind
 https://play.tailwindcss.com/
 
-# This is a heading
+
 
 # Oppgave 6
 
