@@ -208,19 +208,9 @@ Gå og spill en av disse
 
 <a href="https://flexboxfroggy.com/">Flexbox Froggy</a>
 
+
+
 # Oppgave 4
-
-Lag en smakfull nettside om en av hobbyene/interessene dine ved hjelp av tailwindcss.
-
-# Oppgave 5 
-(Optional)
-
-Gå og utforsk tailwind
-https://play.tailwindcss.com/
-
-
-
-# Oppgave 6
 
 Gå og svar på <a href="https://forms.office.com/r/vR9SF1WRat">Formsen</a>
 
