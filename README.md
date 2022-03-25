@@ -3,7 +3,7 @@
 
 ![I dette kurset vil du lære](https://arvidgithubembed.herokuapp.com/skills?languages=javascript,tailwind,html5&backgroundcolor=0D1117&bordercolor=0D1117&title=I%20dette%20kurset%20vil%20du%20lære&titlecolor=ffffff&textcolor=dddddd&boxcolor=0D1117)
 
-[Go to Heading section] (#-this-is-a-heading)
+[Go to Heading section](#-this-is-a-heading)
 
 
 # Innhold
