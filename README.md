@@ -187,6 +187,11 @@ Gratulerer! Du er nå ferdig med oppgave 1
 
 I denne oppgaven skal du lage en funksjon som skriver datoen under klokken.
 
+Hint: Du kan bruke date variabelen du har definert fra før 
+
+![image](https://user-images.githubusercontent.com/71834553/160081911-72d5d2d2-1dae-4a08-bf19-36e4753336ce.png)
+
+
 # Oppgave 3
 
 Gå og spill dette 
