@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/71834553/160104224-18424314-2095-470a-a972-07a4002ca4d5.png)
 
 
-![I dette kurset vil du lære](https://arvidgithubembed.herokuapp.com/skills?languages=javascript,tailwindcss,HTML&backgroundcolor=0D1117&bordercolor=0D1117&title=I%20dette%20kurset%20vil%20du%20lære&titlecolor=ffffff&textcolor=dddddd&boxcolor=0D1117)
+![I dette kurset vil du lære](https://arvidgithubembed.herokuapp.com/skills?languages=javascript,tailwind,html5&backgroundcolor=0D1117&bordercolor=0D1117&title=I%20dette%20kurset%20vil%20du%20lære&titlecolor=ffffff&textcolor=dddddd&boxcolor=0D1117)
 
 # Oppgave 1
 
