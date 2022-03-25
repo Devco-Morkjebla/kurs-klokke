@@ -2,7 +2,11 @@
 
 1. Start med å åpne VScode eller en annen editor.
 
-Skriv så inn taggene for å opprette en nettside. 
+Vis du ikke har VScode så kan du innstallere det her: https://code.visualstudio.com/docs/?dv=win
+
+# 
+
+2. Skriv så inn taggene for å opprette en nettside. 
 
 Pass på at du får med `<html>`, `<body>`, `<head>`, `<style>`, og `<script>` taggen
 
@@ -51,7 +55,8 @@ I denne tutorialene kommer vi ikke til å bruke `<style>` taggen i det hele tatt
 Istedenfor å definere styles manuelt, så lar vi tailwind generere den for oss.
 
 #
-Du kan så begynne med å lage HTML oppsettet til klokken. 
+
+3. Du kan så begynne med å lage HTML oppsettet til klokken. 
 
 Inne i `<body>` taggen begynner du med å lage en `<div>`.
 En `<div>` fungerer som en kontainer. `<div>` taggen grupperer alt som ligger inni den.
@@ -71,7 +76,7 @@ Legg merke til at tailwind har et stort utvalg av farger og fargetoner.
 Her er en liste over fargene som er støttet.
 https://tailwindcss.com/docs/background-color
 
-Her så har vi gitt kontaineren en gradient som går mot høyre. Gradienten går fra fargen `indigo-500` (from-indigo-500), så `purple-500` i midten (via-purple-500) og så `pink-500` i enden (to-pink-500)
+Her så har vi gikk kontaineren en gradient som går mot høyre. Gradienten går fra fargen `indigo-500` (from-indigo-500), har så `purple-500` i midten (via-purple-500) og så `pink-500` i enden (to-pink-500)
 
 ##
 
@@ -100,6 +105,16 @@ I tillegg så kan du gi `<h2>` taggene ett utseende ved å bruke tailwind classe
 `<h2>` taggene burde da se noenlunde slik ut.
 
 ![image](https://user-images.githubusercontent.com/71834553/159912039-014f2ab5-3f06-4c80-b9b5-d0f0afcaa15a.png)
+
+#
+
+Nå er du klar til å åpne klokken med Live Server.
+
+Høyreklikk på filen og trykk åpne med Live Server
+
+![image](https://user-images.githubusercontent.com/71834553/160077501-af0f97df-075e-4144-8d4b-3599515aa612.png)
+
+Live Server vil så åpne en live fane i din browser. ALt du trenger å gjøre heretter er å refreshe nettsiden med `CTRL` + `F5` eller `Shift` + `F5` 
 
 #
 
