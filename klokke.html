@@ -27,6 +27,7 @@
               <h2 id="seconds" class="p-10 text-center text-9xl font-bold text-white"></h2>
             </div>
         </div>
+        <h3 id="date" class="p-10 text-center text-9xl font-bold text-white"></h3>
     </div>
 </body>
 
@@ -58,20 +59,19 @@
         if (hour < 10) {
             zeroHours = "0"
         }
-        document.getElementById("hour").innerHTML = "" + zero + hour;
-        zero = ""
-
+        document.getElementById("hours").innerHTML = "" + zeroHours + hour;
         
         if (minute < 10) {
             zeroMinutes = "0"
         }
-        document.getElementById("minute").innerHTML = ":  " + zero + minute;
-        zero = ""
+        document.getElementById("minutes").innerHTML = ":  " + zeroMinutes + minute;
 
        
         if (second < 10) {
             zeroSeconds = "0"
         }
-        document.getElementById("second").innerHTML = ":  " + zero + second;
+        document.getElementById("seconds").innerHTML = ":  " + zeroSeconds + second;
+
+        document.getElementById('date').innerText = `${date.getDate()}/${date.getMonth()+1}/${date.getFullYear()}`
     }, 1000)
 </script>
